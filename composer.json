@@ -1,5 +1,5 @@
 {
-  "name": "phraseanet/php-sdk",
+  "name": "soulssoft/phraseanet-php-sdk",
   "description": "A library to interact with Phraseanet API",
   "type": "library",
   "keywords": ["Phraseanet"],
